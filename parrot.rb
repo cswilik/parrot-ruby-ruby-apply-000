@@ -3,7 +3,7 @@
 def parrot(sound= "Squak!")
   chirp = sound
   puts (sound)
-  return sound
+  chirp
 end 
 
 parrot
