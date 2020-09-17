@@ -6,4 +6,3 @@ def parrot(sound= "Squak!")
   chirp
 end 
 
-parrot
