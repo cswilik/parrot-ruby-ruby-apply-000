@@ -2,7 +2,7 @@
 # returns the phrase
 def parrot(sound= "Squak!")
   chirp = sound
-  puts sound
+  puts (sound)
   return sound
 end 
 
