@@ -5,3 +5,4 @@ def parrot(sound= "Squak!")
   return sound
 end 
 
+parrot
